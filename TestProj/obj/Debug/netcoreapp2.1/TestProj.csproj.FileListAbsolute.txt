@@ -1,0 +1,17 @@
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.csprojAssemblyReference.cache
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.AssemblyInfoInputs.cache
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.AssemblyInfo.cs
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\TestProj.deps.json
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\TestProj.runtimeconfig.json
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\TestProj.runtimeconfig.dev.json
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\TestProj.dll
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\TestProj.pdb
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\cf301417\source\repos\API\TestProj\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.csproj.CopyComplete
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.dll
+C:\Users\cf301417\source\repos\API\TestProj\obj\Debug\netcoreapp2.1\TestProj.pdb
